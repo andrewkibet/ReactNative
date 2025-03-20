@@ -65,7 +65,7 @@ Transactions	Supports ACID transactions (since MongoDB 4.0)	Fully ACID-compliant
 
 The **JWT_SECRET** is a secret key used to sign and verify JWT (JSON Web Tokens) for authentication in your backend.
 
-🔹 What is JWT (JSON Web Token)?
+# 🔹 What is JWT (JSON Web Token)?
 JWT is a secure way to handle user authentication. When a user logs in:
 
 The server creates a JWT (token) containing user details.
@@ -78,14 +78,14 @@ For every request, the client sends the token to the server.
 
 The server verifies the token using the JWT_SECRET.
 
-🔹 Why is JWT_SECRET Important?
+# 🔹 Why is JWT_SECRET Important?
 Prevents hackers from forging valid tokens.
 
 Ensures only the server can verify tokens (since only the server knows the secret key).
 
 If someone modifies a JWT, the verification will fail.
 
-🔹 How JWT Works (Example)
+## 🔹 How JWT Works (Example)
 1️⃣ Signing a JWT (Creating a Token)
 When a user logs in, the server creates a JWT:
 

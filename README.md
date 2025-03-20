@@ -63,4 +63,7 @@ Transactions	Supports ACID transactions (since MongoDB 4.0)	Fully ACID-compliant
     Mobile and web applications
 
 
+The **JWT_SECRET ** is a secret key used to sign and verify JWT (JSON Web Tokens) for authentication in your backend.
+
+
 

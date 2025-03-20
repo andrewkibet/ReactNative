@@ -54,16 +54,13 @@ Schema	Flexible (No predefined schema)	Fixed schema (Strict structure)
 Scalability	Horizontally scalable (Sharding)	Vertically scalable (Scaling up)
 Query Language	MongoDB Query Language (MQL)	SQL (Structured Query Language)
 Transactions	Supports ACID transactions (since MongoDB 4.0)	Fully ACID-compliant
-When to Use MongoDB?
-Big Data applications
 
-E-commerce platforms
-
-Real-time analytics
-
-Content management systems
-
-Mobile and web applications
+## When to Use MongoDB?
+    Big Data applications
+    E-commerce platforms
+    Real-time analytics
+    Content management systems
+    Mobile and web applications
 
 
 

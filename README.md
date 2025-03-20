@@ -31,7 +31,8 @@ Understand the deployment process for both Android and iOS
 # MongoDB 
 MongoDB is a NoSQL database that stores data in a document-oriented format using JSON-like structures called BSON (Binary JSON). It is designed for high performance, scalability, and flexibility, making it a popular choice for modern web applications.
 
-**Key Features of MongoDB:**
+## **Key Features of MongoDB:**
+
 1.Schema-less (Flexible Schema) – Unlike SQL databases, MongoDB does not require a fixed table schema, allowing you to store different types of data in the same collection.
 
 2.Document-Oriented – Data is stored in BSON documents, which makes it easy to represent complex structures.

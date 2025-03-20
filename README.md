@@ -28,22 +28,23 @@ Explore advanced topics:
 Explore native modules and how to bridge them
 Understand the deployment process for both Android and iOS
 
+# MongoDB 
 MongoDB is a NoSQL database that stores data in a document-oriented format using JSON-like structures called BSON (Binary JSON). It is designed for high performance, scalability, and flexibility, making it a popular choice for modern web applications.
 
-Key Features of MongoDB:
-Schema-less (Flexible Schema) – Unlike SQL databases, MongoDB does not require a fixed table schema, allowing you to store different types of data in the same collection.
+**Key Features of MongoDB:**
+1.Schema-less (Flexible Schema) – Unlike SQL databases, MongoDB does not require a fixed table schema, allowing you to store different types of data in the same collection.
 
-Document-Oriented – Data is stored in BSON documents, which makes it easy to represent complex structures.
+2.Document-Oriented – Data is stored in BSON documents, which makes it easy to represent complex structures.
 
-Scalability – Supports horizontal scaling through sharding (distributing data across multiple servers).
+3.Scalability – Supports horizontal scaling through sharding (distributing data across multiple servers).
 
-High Performance – Faster read/write operations due to its document model.
+4.High Performance – Faster read/write operations due to its document model.
 
-Indexing – Supports indexing to optimize query performance.
+5.Indexing – Supports indexing to optimize query performance.
 
-Aggregation Framework – Provides powerful data processing and transformation capabilities.
+6.Aggregation Framework – Provides powerful data processing and transformation capabilities.
 
-Replication – Supports data redundancy using Replica Sets to ensure data availability.
+7.Replication – Supports data redundancy using Replica Sets to ensure data availability.
 
 MongoDB vs SQL Databases
 Feature	MongoDB (NoSQL)	SQL Databases (MySQL, PostgreSQL)
